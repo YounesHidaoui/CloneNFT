@@ -1,2 +1,2 @@
 # Clone NFt or Store 
-Hello , I create this portfolio in Html / css / bootstarp 5
+Hello , I create this clone in Html / css / bootstarp 5
